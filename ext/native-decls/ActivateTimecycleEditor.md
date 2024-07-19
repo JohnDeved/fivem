@@ -8,4 +8,4 @@ apiset: client
 void ACTIVATE_TIMECYCLE_EDITOR();
 ```
 
-Activates built-in timecycle editing tool.
+Activates built-in timecycle editing tool..
